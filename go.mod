@@ -31,10 +31,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-require (
-	github.com/petermattis/goid v0.0.0-20260725062400-500c67a39b75 // indirect
-	golang.org/x/mod v0.38.0 // indirect
-)
+require github.com/petermattis/goid v0.0.0-20260725062400-500c67a39b75 // indirect
 
 require (
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.11-20260415201107-50325440f8f2.1 // indirect
@@ -60,7 +57,7 @@ require (
 	github.com/docker/cli v29.2.0+incompatible // indirect
 	github.com/docker/go-connections v0.7.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
-	github.com/emiago/sipgo v1.4.0
+	github.com/emiago/sipgo v1.4.1
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/gammazero/deque v1.2.1 // indirect
